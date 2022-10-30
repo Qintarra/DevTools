@@ -10,3 +10,4 @@ Working with the Console:
 
 Editing source files:
 - add the folder to the workspace
+- edit files
