@@ -9,3 +9,4 @@ Working with the Console:
 ### Source files
 
 Editing source files:
+- add the folder to the workspace
