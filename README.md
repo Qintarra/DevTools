@@ -8,3 +8,4 @@ Working with the Console:
 
 ### Source files
 
+Editing source files:
