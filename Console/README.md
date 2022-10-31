@@ -6,4 +6,4 @@
 
 ![Errors](/Console/screenshots/errors.jpg "errors")
 
-2. Use the Console to select and view DOM structure for the first list item element within the footer element and then to    ![DOM](/Console/screenshots/DOM.jpg "DOM")
+2. Use the Console to select and view DOM structure for the first list item element within the footer element and then to view    ![DOM](/Console/screenshots/DOM.jpg "DOM")
