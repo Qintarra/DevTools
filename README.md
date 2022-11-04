@@ -1,13 +1,12 @@
 # DevTools
 
-### Console
-
-Working with the Console:  
-- check the error message and fix loading issues
-- View DOM structure for first *li* within *footer*, and for each *li* within *footer*.
-
-### Source files
-
-Editing source files:
-- add the folder to the workspace
-- edit files
+Setting up testing and debugging environment  
+Customizing the display of Chrome Developer Tools  
+Simulating webpages and apps in different devices  
+Emulating rendering  
+Inspecting elements and styles  
+Reading and writing in the Console  
+Opening and editing files in the Sources panel  
+Using the Network panel  
+Identifying code that slows page loading  
+Examining storage and data with the Application panel  
