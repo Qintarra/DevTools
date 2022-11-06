@@ -32,4 +32,4 @@ Editing source files:
 - locate the H1 element, and add a comment stating that you want whe H1 to be displayed like on other pages
 - remove the folder from the workspace
 
-![editing](/Source_files/screenshots/editing.jpg "index.html")
+![editing](/screenshots/editing.jpg "edit")
