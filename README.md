@@ -35,6 +35,7 @@ Working with the Console:
 
 ### Source files
 
+Task from *source-files* branch.  
 Editing source files:
 - add the folder to the workspace
 - open the *index.html* file in the *blog* folder
