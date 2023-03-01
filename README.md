@@ -3,6 +3,29 @@
 https://2814173.youcanlearnit.net/ - this is a responsive site for a robot-themed fictitious company, solely for the creation and development of educational training materials.
 
 A little journey on DevTools: [video](https://drive.google.com/file/d/1GiW7WiE1jRAji5ZAc22YgBafEfSi8JZR/view)    
+<details>  
+<summary>video contains the following steps</summary>    
+ 1. Go to the Elements panel.  
+ 2. Show element alignment and style changes.   
+ 3. Enable mobile device mode.   
+ 4. Demonstrate Responsive design.   
+ 5. Create your device.   
+ 6. Capture a screenshot of the entire page.   
+ 7. Set Throttling low-end mobile.   
+ 8. Switch to landscape mode.   
+ 9. Turn off Device Mode.   
+ 10. Open the Network tab.   
+ 11. Open and view the Headers tab.   
+ 12. Open the Preview tab.   
+ 13. Show element loading timings.   
+ 14. Find and copy User-Agent.   
+ 15. Choose another User-Agent and change it.   
+ 16. Expand all JSON nesting levels.   
+ 17. Open the LightHouse tab.   
+ 18. Click Generate report.   
+ 19. Change GPS location, show on Google Maps.   
+ 20. Change GPS location a second time, show on Google Maps.     
+</details>  
 
 For practicing, you can clone this repo and open it in Visual Studio, then launch Live Server (VS extension). 
 
