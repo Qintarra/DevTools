@@ -43,3 +43,5 @@ Editing source files:
 - remove the folder from the workspace
 
 ![editing](/screenshots/editing.jpg "edit")
+
+A little journey on DevTools: [video](https://drive.google.com/file/d/1GiW7WiE1jRAji5ZAc22YgBafEfSi8JZR/view)
