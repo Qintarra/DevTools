@@ -4,7 +4,8 @@ https://2814173.youcanlearnit.net/ - this is a responsive site for a robot-theme
 
 A little journey on DevTools: [video](https://drive.google.com/file/d/1GiW7WiE1jRAji5ZAc22YgBafEfSi8JZR/view)    
 <details>  
-<summary>video contains the following steps</summary>    
+<summary>video contains the following steps</summary>  
+
  1. Go to the Elements panel.  
  2. Show element alignment and style changes.   
  3. Enable mobile device mode.   
