@@ -1,6 +1,8 @@
 # DevTools
 
-https://2814173.youcanlearnit.net/ - this is a responsive site for a robot-themed fictitious company, solely for the creation and development of educational training materials.  
+https://2814173.youcanlearnit.net/ - this is a responsive site for a robot-themed fictitious company, solely for the creation and development of educational training materials.
+
+A little journey on DevTools: [video](https://drive.google.com/file/d/1GiW7WiE1jRAji5ZAc22YgBafEfSi8JZR/view)    
 
 For practicing, you can clone this repo and open it in Visual Studio, then launch Live Server (VS extension). 
 
@@ -44,4 +46,3 @@ Editing source files:
 
 ![editing](/screenshots/editing.jpg "edit")
 
-A little journey on DevTools: [video](https://drive.google.com/file/d/1GiW7WiE1jRAji5ZAc22YgBafEfSi8JZR/view)
